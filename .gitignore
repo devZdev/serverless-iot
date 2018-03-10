@@ -1,3 +1,4 @@
 /node_modules
-credentials.csv
+serverless-deployer-credentials.csv
+iot-connector-credentials.csv
 notes.txt
